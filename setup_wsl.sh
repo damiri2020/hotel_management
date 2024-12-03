@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Update package list
-sudo apt updat
+sudo apt update
 
 # Install Python dependencies
 sudo apt install -y python3-pip python3-dev python3-venv python3-wheel
