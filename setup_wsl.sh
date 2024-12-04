@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Update package list
+# Update package listttt   
 sudo apt update
 
 # Install Python dependencies
